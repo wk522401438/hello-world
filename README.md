@@ -1,2 +1,4 @@
 # hello-world
-rest
+
+hello!
+good luck!
